@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:leonardo",
+    "port": "COM5",
+    "sketch": "USBHIDBootKbd23.ino",
+    "programmer": "AVR ISP"
+}
